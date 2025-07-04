@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Software Developer | Full-Stack Engineer </h3>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adiiityasiingh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;
+  <a href="https://github.com/adiiityasiingh?tab=followers">
+    <img src="https://img.shields.io/github/followers/adiiityasiingh?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+</p>
+
+
 <table>
   <tr>
     <td width="55%">
