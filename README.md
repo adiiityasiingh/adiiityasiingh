@@ -1,36 +1,25 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Software Developer | Full-Stack Engineer </h3>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+## 🚀 About Me
 
-  <div style="flex: 1; min-width: 250px; max-width: 55%;">
+<img align="right" src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif" width="350" alt="banner gif">
 
-<h3>🚀 About Me</h3>
+- 🔭 I’m currently working on [Research-Tool-Langchain](https://github.com/adiiityasiingh/Research-Tool-Langchain)
+- 🌱 I’m learning AI/ML
+- 🤝 I'm open to collaborating on [Connex-Labs](https://github.com/adiiityasiingh/Connex-Labs---backend)
+- 📫 How to reach me: **ad69832@gmail.com**
 
-<ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/adiiityasiingh/Research-Tool-Langchain">Research-Tool-Langchain</a></li>
-  <li>🌱 I’m learning AI/ML</li>
-  <li>🤝 I'm open to collaborating on <a href="https://github.com/adiiityasiingh/Connex-Labs---backend">Connex-Labs</a></li>
-  <li>📫 How to reach me: <b>ad69832@gmail.com</b></li>
-</ul>
+<br>
 
-<p>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ad69832@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-  </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ad69832@gmail.com)
 
   <div style="flex: 1; min-width: 250px; max-width: 45%; text-align: center;">
     <img src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE2NTE2MjIsIm5iZiI6MTc1MTY1MTMyMiwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA0VDE3NDg0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyMjg0MGM4MGE2MDBkMDhkOGQwNWEzYmFlMzhkZmNhM2U5YWY5Yzg4N2ZhMDE5MjEwOWFkYWM4YzIxYjk5NjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.D2VsSyzq2WZbOk8yTC2nKQEjhGwRjuIqEVwPONbhK3U" alt="banner gif" width="100%" />
   </div>
 
 </div>
-
 
 
 ### 🧰 Languages & Tools
