@@ -40,12 +40,12 @@
 ### 🌟 Projects
 
 #### 🔹 [Research-Tool-Langchain](https://github.com/adiiityasiingh/Research-Tool-Langchain)
-> 
-**Tech Stack:** React, Node.js, MongoDB, Express, JWT
+> This is an user-friendly market news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
+**Tech Stack:** React, Node.js, MongoDB, Express, JWT, Python
 
 #### 🔹 [Connex-Labs](https://github.com/adiiityasiingh/Connex-Labs---backend)
-> 
-**Tech Stack:** Next.js, MongoDB, OAuth, Docker
+> ⚓ AI-Powered Ship Planning & Optimization System A smart backend service for commercial shipping logistics. It leverages AI models to optimize voyage planning, predict fuel consumption, and forecast proactive maintenance schedules for vessels.
+**Tech Stack:** Next.js, MongoDB, OAuth, Docker, Python, Flask
 
 ---
 
