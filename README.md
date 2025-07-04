@@ -23,7 +23,7 @@
 
    </td>
    <td width="45%">
-    <img src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif" alt="banner gif" width="100%" />
+    <img src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE2NTE2MjIsIm5iZiI6MTc1MTY1MTMyMiwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA0VDE3NDg0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyMjg0MGM4MGE2MDBkMDhkOGQwNWEzYmFlMzhkZmNhM2U5YWY5Yzg4N2ZhMDE5MjEwOWFkYWM4YzIxYjk5NjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.D2VsSyzq2WZbOk8yTC2nKQEjhGwRjuIqEVwPONbhK3U" alt="banner gif" width="100%" />
    </td>
   </tr>
 </table>
