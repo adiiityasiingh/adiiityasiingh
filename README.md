@@ -5,9 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adiiityasiingh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   &nbsp;
-  <a href="https://github.com/adiiityasiingh?tab=followers">
-    <img src="https://img.shields.io/github/followers/adiiityasiingh?label=Follow&style=social" alt="GitHub followers" />
-  </a>
 </p>
 
 
