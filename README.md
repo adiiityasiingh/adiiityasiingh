@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Software Developer | Full-Stack Engineer </h3>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adiiityasiingh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  &nbsp;
-</p>
-
-
 <table>
   <tr>
     <td width="55%">
 
 ### 🚀 About Me
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adiiityasiingh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;
+</p>
 
 - 🔭 I’m currently working on [Research-Tool-Langchain](https://github.com/adiiityasiingh/Research-Tool-Langchain)
 - 🌱 I’m learning AI/ML
