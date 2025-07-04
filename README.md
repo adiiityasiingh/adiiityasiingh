@@ -5,12 +5,12 @@
   <tr>
     <td width="55%">
 
-### 🚀 About Me
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=adiiityasiingh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   &nbsp;
 </p>
+### 🚀 About Me
+
 
 - 🔭 I’m currently working on [Research-Tool-Langchain](https://github.com/adiiityasiingh/Research-Tool-Langchain)
 - 🌱 I’m learning AI/ML
@@ -76,18 +76,6 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/adiiityasiingh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ad69832@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 💡 Fun Facts
 
