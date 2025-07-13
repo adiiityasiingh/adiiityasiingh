@@ -28,7 +28,7 @@
 
    </td>
    <td width="45%">
-    <img src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIzNDczODYsIm5iZiI6MTc1MjM0NzA4NiwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEyVDE5MDQ0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4YjljMzkyYzMwNjQ1NTVlZjk4ZTA0ODYxOWNjMDBiYTcxZDM2MTRhYmFiNDBhMWE2MzFiMzYwY2JiNmY4ZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DWbYniJfzYS0JJC_1zGX1KIZ7FUESmUI1QE_z_Ohjvw" alt="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" />
+    <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Profile" width="100%" />
    </td>
   </tr>
 </table>
