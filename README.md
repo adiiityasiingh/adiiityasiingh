@@ -18,7 +18,7 @@
 - 📫 How to reach me: **ad69832@gmail.com**
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/adiiityasiingh">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ad69832@gmail.com">
